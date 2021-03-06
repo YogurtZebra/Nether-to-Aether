@@ -1,0 +1,12 @@
+/tinkersaether-1.3.0/*
+!/tinkersaether-1.3.0/assets
+/tinkersaether-1.3.0/assets/tinkersaether/models
+/tinkersaether-1.3.0/assets/tinkersaether/materials
+/tinkersaether-1.3.0/assets/tinkersaether/textures
+/tinkersaether-1.3.0/assets/tinkersaether/recipes
+/tinkersaether-1.3.0/assets/tinkersaether/loot_tables
+/tinkersaether-1.3.0/assets/tinkersaether/blockstates
+/tinkersaether-1.3.0/assets/tinkersaether/lang/en_us.lang
+!.gitignore
+
+# Git的!不能超过两个子目录，吐了
