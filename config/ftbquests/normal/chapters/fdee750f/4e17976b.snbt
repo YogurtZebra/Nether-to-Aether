@@ -1,0 +1,24 @@
+{
+	title: "这版本……",
+	x: -5.5d,
+	y: -0.5d,
+	text: [
+		"如你所见，这个版本是1.12.2",
+		"这些来自高版本的方块与特性来自于Future Versions模组",
+		"§7§m§o也就是说你仍然可以找下界合金"
+	],
+	tasks: [{
+		uid: "692fb430",
+		type: "item",
+		items: [{
+			item: "futureminecraf:warpedplanks"
+		}]
+	},
+	{
+		uid: "a4400661",
+		type: "item",
+		items: [{
+			item: "futureminecraf:crimsonplanks"
+		}]
+	}]
+}

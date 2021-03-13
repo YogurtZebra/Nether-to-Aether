@@ -8,5 +8,6 @@
 /tinkersaether-1.3.0/assets/tinkersaether/blockstates
 /tinkersaether-1.3.0/assets/tinkersaether/lang/en_us.lang
 !.gitignore
+dimensions.png
 
 # Git的!不能超过两个子目录，吐了

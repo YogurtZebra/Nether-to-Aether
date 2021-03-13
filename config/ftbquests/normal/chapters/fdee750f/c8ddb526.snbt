@@ -1,0 +1,21 @@
+{
+	title: "欢迎来到……下界？",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"如你所见，你被流放了",
+		"至于你做了些什么……我想你会记起来的",
+		"重要的是，现在该怎么回去？",
+		"§7§m§o不要问我奖励为什么是草"
+	],
+	tasks: [{
+		uid: "be2c70d2",
+		type: "dimension",
+		dim: -1
+	}],
+	rewards: [{
+		uid: "11687b65",
+		type: "item",
+		item: "minecraft:tallgrass 1 1"
+	}]
+}
