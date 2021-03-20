@@ -4,7 +4,7 @@
 
 主题： 冒险
 
-目前保存部分修改的config文件，BetterSpawn的配置，以及天境工匠的翻译文件
+目前保存部分修改的config文件，BetterSpawn的配置等
 
 更多信息待补充...
 
